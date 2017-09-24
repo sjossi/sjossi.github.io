@@ -1,4 +1,5 @@
 ---
+type: post
 title: KI1 Reading assignment
 ---
 
