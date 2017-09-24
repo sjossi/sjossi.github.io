@@ -1,5 +1,4 @@
 ---
-layout: single
 title: KI1 Reading assignment
 ---
 
