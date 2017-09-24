@@ -8,6 +8,7 @@ the [zhaw](https://www.zhaw.ch). I leave the notes here as an insight into how I
 Since this is not only an exercise in gathering information, but also in
 organising and expressing it, I am also open to discussion about this part.
 
+
 # Notes 
 *Topic*
 AI: helpful or harmful
