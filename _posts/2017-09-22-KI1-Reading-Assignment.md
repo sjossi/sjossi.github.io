@@ -5,8 +5,8 @@ title: KI1 Reading assignment
 
 # Background
 This is a reading assignment for my class on artificial intelligence at
-the [zhaw](https://www.zhaw.ch). I leave the notes here as an insight into how I created the post.
-Since this is not only an exercise in gathering information, but also in
+the [zhaw](https://www.zhaw.ch). I will leave the notes here as an insight into how I created the
+post. Since this is not only an exercise in gathering information, but also in
 organising and expressing it, I am also open to discussion about this part.
 
 
@@ -45,3 +45,7 @@ AI: helpful or harmful
     * Caliber 3: Artificial Superintelligence
     Superior to us in everything
 
+* The Road from ANI to AGI
+    * Certain tasks are more difficult than expected
+        * Figure out if picture contains a bird [relevant xkcd](https://xkcd.com/1425/).
+        * **Understand** a paragraph of text.
