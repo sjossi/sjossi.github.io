@@ -36,3 +36,12 @@ AI: helpful or harmful
     * Things advance faster because we're more advanced.
     * Think exponential instead of linear
     * 
+* What is AI?
+3 major *caliber* categories
+    * Caliber 1: Articial Narrow Intelligence ANI
+    *Weak AI*, specialized in one area. e.g. chess computer
+    * Caliber 2: Artificial General Intelligence AGI
+    *Strong AI*, as smart as a human in everything. not yet done
+    * Caliber 3: Artificial Superintelligence
+    Superior to us in everything
+
